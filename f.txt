@@ -1,0 +1,89 @@
+<footer class="bg-dark text-light text-center text-lg-start">
+                    <!-- Grid container -->
+                    <div class="container p-4">
+                        <!--Grid row-->
+                        <div class="row">
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                                <br><br><br>
+                                <h5 class="text-uppercase" style="padding-top: 100px;">Fitness Blender</h5>
+
+                                <p class="text-secondary">Our goal is to make health and <br> fitness attainable, affordable and approachable.
+                                </p>
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase" style="padding-top: 100px;">WORKOUTS</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="wv.html" class="text-secondary" style="text-decoration: none">WORKOUTS VIDEOS</a>
+                                        <br>
+                                    </li>
+
+                                    <li>
+                                        <a href="#!" class="text-secondary" style="text-decoration: none">CUSTOM WORKOUT</a>
+                                    </li>
+                                </ul>
+                                <br>
+                                <h5 class="text-uppercase">PROGRAMS</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="wp.html" class="text-secondary" style="text-decoration: none">WORKOUTS PROGRAMS</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-secondary" style="text-decoration: none">MEAL PLANS</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase mb-0" style="padding-top: 100px;">HEALTHY LIVING</h5>
+                                <br>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#!" class="text-secondary" style="text-decoration: none">EXPERT ARTICLES</a>
+                                    </li>
+                                    <li>
+                                        <a href="hr.html" class="text-secondary" style="text-decoration: none">HEALTHY RECIPES</a>
+                                    </li>
+
+                                </ul>
+                                <h5 class="text-uppercase mb-0">ABOUT</h5>
+                                <br>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="About.html" class="text-secondary" style="text-decoration: none">ABOUT</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-secondary" style="text-decoration: none">CAREERS</a>
+
+
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-secondary" style="text-decoration: none">OUR TEAM</a>
+
+
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--Grid column-->
+                        </div>
+                        <!--Grid row-->
+                    </div>
+                    <!-- Grid container -->
+
+                    <!-- Copyright -->
+                    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+                        © 2020 Copyright:
+                        <a class="text-white" href="Home.html" style="text-decoration: none">fitnessblender.com</a>
+                    </div>
+                    <!-- Copyright -->
+                </footer>

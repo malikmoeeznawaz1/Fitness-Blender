@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-sm bg-white navbar-white fixed-top" style="height:110px">
+        <div class="container">
+
+            <a href="Home.html"><img src="img/logo home button.png" alt=""></a>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">WORKOUTS
+                         </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="wv.html">WORKOUT VIDEOS</a></li>
+                            <li><a class="dropdown-item" href="#">CUSTOM WORKOUT</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">PROGRAMS
+                         </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="wp.html">WORKOUT PROGRAMS</a></li>
+                            <li><a class="dropdown-item" href="#">MEAL PLANS</a></li>
+                            <li><a class="dropdown-item" href="#">ROUTNES</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">HEALTHY LIVING
+                         </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">EXPERT ARTICLES</a></li>
+                            <li><a class="dropdown-item" href="hr.html">HEALTHY RECIPES</a></li>
+                            <li><a class="dropdown-item" href="#">WELLNESS VIDEOS</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">ABOUT
+                         </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="About.html">ABOUT</a></li>
+                            <li><a class="dropdown-item" href="#">CAREERS</a></li>
+                            <li><a class="dropdown-item" href="#">TUTORIALS</a></li>
+                            <li><a class="dropdown-item" href="#">OUR TEAM</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="Store.html">STORE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="membership.html">MEMBERSHIP</a>
+                    </li>
+                    <div id="signin" style="margin-left:70px">
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">MY FITNESS
+                         </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="sup.html">JOIN</a></li>
+                                <li><a class="dropdown-item" href="sin.html">SIGN IN</a></li>
+
+                            </ul>
+                        </li>
+                    </div>
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
